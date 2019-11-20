@@ -1,7 +1,8 @@
 ee597
 icons
 plot_uavs.gp
-.mp4
-.png
-.imn
+*.mp4
+*.png
+*.imn
+
 
